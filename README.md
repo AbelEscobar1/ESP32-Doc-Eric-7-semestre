@@ -8,8 +8,8 @@ Ejecutalos online en [Binder](https://mybinder.org/)
 
 # Contenido
 
-0. Parte 1. Introducción a la programación en Python
-0. parte 2. Uso de Python en procesamiento digital de Señales
+0 Parte 1. Introducción a la programación en Python
+0 parte 2. Uso de Python en procesamiento digital de Señales
 1. Señales analógas vs. Señales Digitales
 2. Muestreo y Cuantificación
 3. Sistemas LTI y modelado de series de tiempo
