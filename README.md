@@ -18,3 +18,6 @@ Ejecutalos online en [Binder](https://mybinder.org/)
 4. Correlación y Autocorrelación
 5. Introducción a la transformada discreta de Fourier
 6. Sintesis de Audio usando el algoritmo de Karplus-Strong
+7. Sistemas de marcación por tonos (DTMF)
+8. Diseño de filtros con respuesta finita al impulso (FIR)
+9. Transmisión de datos por un canal telefónico y modulaciones digitales
